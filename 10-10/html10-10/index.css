@@ -67,25 +67,16 @@ footer p{
     padding: 10px 50px;
 }
 
-.botoes{
-    padding: 50px;
-}
 
 .img_escol{
     padding: 10px 50px; 
     text-align: center;
 }
 
-.cartaz{
-    text-align: center;
-    height: 400px;
-    width: 100%;
+.bloco1{
+    display: inline-block;
 }
 
-.doutor{
-    text-align: center;
-}
-
-.info{
-    text-align: center;
+.bloco2{
+    display: inline-block;
 }
